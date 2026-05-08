@@ -1,3 +1,14 @@
 
 # Ignorar XML 
 *.xml linguist-detectable=false
+# Android Studio
+.idea/
+*.iml
+
+# Build
+build/
+*/build/
+
+# Gradle
+.gradle/
+local.properties
