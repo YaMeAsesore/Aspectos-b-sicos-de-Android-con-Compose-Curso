@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">curso</string>
+    <string name="user_name">Desarrollador Android</string>
+    <string name="occupation">Estudiante de Tics</string>
+    <string name="phone" >951581 9268</string>
+    <string name="monkey">@eduardo</string>
+    <string name="email">eduardoaz11154@gmail</string>
+</resources>

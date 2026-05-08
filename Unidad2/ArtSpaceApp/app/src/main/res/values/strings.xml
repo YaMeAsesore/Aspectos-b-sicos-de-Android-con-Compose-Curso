@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Galería de Arte</string>
+
+    <string name="Borg_title_1">Ojos Observadores del Borg</string>
+    <string name="Borg_description_1">Arte Asistido por IA</string>
+
+    <string name="Borg_title_2">Despedida y Partida</string>
+    <string name="Borg_description_2">Arte Asistido por IA</string>
+
+    <string name="Borg_title_3">Relajación Serena en la Playa</string>
+    <string name="Borg_description_3">Arte Asistido por IA</string>
+
+    <string name="Borg_title_4">Los Momentos Tranquilos del Abuelo</string>
+    <string name="Borg_description_4">Arte Asistido por IA</string>
+
+    <string name="button_previous">Anterior</string>
+    <string name="button_next">Siguiente</string>
+</resources>

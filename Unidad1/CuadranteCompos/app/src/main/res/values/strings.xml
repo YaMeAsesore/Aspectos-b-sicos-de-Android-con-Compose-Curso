@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Compose Quadrant</string>
+
+    <string name="title_one">Composable Text</string>
+    <string name="text_one">Muestra texto y sigue las pautas recomendadas de Material Design.</string>
+
+    <string name="title_two">Composable Image</string>
+    <string name="text_two">Crea un composable que organiza y dibuja un objeto de la clase Painter.</string>
+
+    <string name="title_three">Composable Row</string>
+    <string name="text_three">Un contenedor que organiza a sus hijos en una secuencia horizontal.</string>
+
+    <string name="title_four">Composable Column</string>
+    <string name="text_four">Un contenedor que organiza a sus hijos en una secuencia vertical.</string>
+</resources>

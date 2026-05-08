@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proyecto Final libreria google</string>
+    <string name="loading_failed">Error al cargar</string>
+    <string name="retry">Reintentar</string>
+    <string name="loading">Cargando</string>
+    <string name="placeholder_success">Texto de marcador</string>
+    <string name="mars_photo">Foto </string>
+</resources>

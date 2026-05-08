@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">30 Días App</string>
+
+    <string name="nameRes_1">Winston Churchill</string>
+    <string name="quotaRes_1">El éxito no es definitivo, el fracaso no es fatal: es el coraje de continuar lo que cuenta.</string>
+
+    <string name="nameRes_2">Abraham Lincoln</string>
+    <string name="quotaRes_2">El éxito es caminar de fracaso en fracaso sin perder el entusiasmo.</string>
+
+    <string name="nameRes_3">Colin R. Davis</string>
+    <string name="quoteRes_3">El camino al éxito y el camino al fracaso son casi exactamente iguales.</string>
+
+    <string name="nameRes_4">Henry David Thoreau</string>
+    <string name="quoteRes_4">El éxito generalmente llega a quienes están demasiado ocupados para buscarlo.</string>
+
+    <string name="nameRes_5">Albert Schweitzer</string>
+    <string name="quoteRes_5">El éxito no es la clave de la felicidad. La felicidad es la clave del éxito. Si amas lo que haces, tendrás éxito.</string>
+
+    <string name="nameRes_6">Bo Bennett</string>
+    <string name="quoteRes_6">El éxito no está en lo que tienes, sino en quién eres.</string>
+
+    <string name="nameRes_7">Aristóteles Onassis</string>
+    <string name="quoteRes_7">El secreto del éxito es saber algo que nadie más sabe.</string>
+
+    <string name="nameRes_8">Booker T. Washington</string>
+    <string name="quoteRes_8">El éxito se mide no tanto por la posición que uno ha alcanzado en la vida, sino por los obstáculos que ha superado.</string>
+
+    <string name="nameRes_9">Anónimo</string>
+    <string name="quoteRes_9">El éxito no se trata solo de ganar dinero. Se trata de hacer una diferencia.</string>
+
+    <string name="nameRes_10">Eric Idle</string>
+    <string name="quoteRes_10">Creo que a menudo aprendemos del fracaso. El éxito solo te enseña lo grandioso que fuiste, pero saber qué fallará es lo que te ayuda a tomar las decisiones correctas.</string>
+
+    <string name="nameRes_11">Vince Lombardi</string>
+    <string name="quoteRes_11">La diferencia entre una persona exitosa y las demás no es falta de fuerza ni de conocimiento, sino falta de voluntad.</string>
+
+    <string name="nameRes_12">Napoleon Hill</string>
+    <string name="quoteRes_12">Todo lo que la mente puede concebir y creer, lo puede lograr.</string>
+
+    <string name="nameRes_13">Steve Jobs</string>
+    <string name="quoteRes_13">Tu trabajo va a llenar gran parte de tu vida, y la única forma de estar verdaderamente satisfecho es hacer lo que crees que es un gran trabajo. Y la única manera de hacer un gran trabajo es amar lo que haces.</string>
+
+    <string name="nameRes_14">Oprah Winfrey</string>
+    <string name="quoteRes_14">La mayor aventura que puedes tomar es vivir la vida de tus sueños.</string>
+
+    <string name="nameRes_15">Thomas Edison</string>
+    <string name="quoteRes_15">No he fracasado. Simplemente he encontrado 10,000 maneras que no funcionan.</string>
+
+    <string name="nameRes_16">Michael Jordan</string>
+    <string name="quoteRes_16">Puedo aceptar el fracaso, todos fallan en algo. Pero no puedo aceptar no intentarlo.</string>
+
+    <string name="nameRes_17">Coco Chanel</string>
+    <string name="quoteRes_17">El éxito lo logran con mayor frecuencia quienes no saben que el fracaso es inevitable.</string>
+
+    <string name="nameRes_18">Mark Cuban</string>
+    <string name="quoteRes_18">No importa cuántas veces hayas fallado, solo necesitas tener razón una vez.</string>
+
+    <string name="nameRes_19">Bill Gates</string>
+    <string name="quoteRes_19">Está bien celebrar el éxito, pero es más importante prestar atención a las lecciones del fracaso.</string>
+
+    <string name="nameRes_20">Helen Keller</string>
+    <string name="quoteRes_20">El éxito no es la ausencia del fracaso; es la persistencia a través del fracaso.</string>
+
+    <string name="nameRes_21">Zig Ziglar</string>
+    <string name="quoteRes_21">No tienes que ser grande para empezar, pero tienes que empezar para ser grande.</string>
+
+    <string name="nameRes_22">Richard Branson</string>
+    <string name="quoteRes_22">¿Mi mayor motivación? Seguir desafiándome a mí mismo. Veo la vida casi como una larga educación universitaria que nunca tuve — cada día aprendo algo nuevo.</string>
+
+    <string name="nameRes_23">Elon Musk</string>
+    <string name="quoteRes_23">Cuando algo es suficientemente importante, lo haces aunque las probabilidades no estén a tu favor.</string>
+
+    <string name="nameRes_24">Maya Angelou</string>
+    <string name="quoteRes_24">El éxito es gustarte a ti mismo, gustar lo que haces y gustar cómo lo haces.</string>
+
+    <string name="nameRes_25">Warren Buffett</string>
+    <string name="quoteRes_25">Es mejor relacionarse con personas mejores que tú. Elige asociados cuyo comportamiento sea mejor que el tuyo y tenderás a ir en esa dirección.</string>
+
+    <string name="nameRes_26">J.K. Rowling</string>
+    <string name="quoteRes_26">Es imposible vivir sin fallar en algo, a menos que vivas tan cautelosamente que en realidad no hayas vivido, en cuyo caso habrás fallado por defecto.</string>
+
+    <string name="nameRes_27">Muhammad Ali</string>
+    <string name="quoteRes_27">La voluntad debe ser más fuerte que la habilidad.</string>
+
+    <string name="nameRes_28">Nelson Mandela</string>
+    <string name="quoteRes_28">La mayor gloria de vivir no está en nunca caer, sino en levantarse cada vez que caemos.</string>
+
+    <string name="nameRes_29">Malcolm X</string>
+    <string name="quoteRes_29">Si no tienes críticos, probablemente tampoco tendrás éxito.</string>
+
+    <string name="nameRes_30">Johann Wolfgang von Goethe</string>
+    <string name="quoteRes_30">En cuanto confíes en ti mismo, sabrás cómo vivir.</string>
+</resources>

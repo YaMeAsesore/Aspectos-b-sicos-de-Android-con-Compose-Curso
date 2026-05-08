@@ -1,0 +1,195 @@
+<resources>
+    <string name="app_name">Rímini</string>
+    <string name="app_description">Rímini es un municipio italiano de aproximadamente 150 mil habitantes, ubicado en la región italiana de Emilia-Romaña. La ciudad se caracteriza por la presencia de experiencias veraniegas de relevancia internacional, con una costa que se extiende 15 km a lo largo del mar Adriático. Rímini es una colonia fundada por los romanos en el año 268 a.C.: durante todo el período de dominación romana fue un nodo de comunicación entre el norte y el sur de la península, y en su suelo los emperadores romanos erigieron monumentos de los que aún quedan huellas importantes. Fue tierra de la familia Malatesta: la corte de Segismundo Pandolfo Malatesta fue una de las más animadas de la época, acogiendo a artistas como Leon Battista Alberti y Piero della Francesca, y preservando importantes obras del Renacimiento italiano.</string>
+    <string name="app_logo">Logo de Rímini</string>
+    <string name="general_address">%s Rímini, Italia</string>
+    <string name="start_exploring">¡Empieza a explorar!</string>
+    <string name="navigate_up_button">Botón de navegación</string>
+    <string name="home_category">Inicio</string>
+
+    <!-- Categorías -->
+    <string name="category_1_name">Almuerzo y Cena</string>
+    <string name="category_2_name">Desayuno</string>
+    <string name="category_3_name">Alojamiento</string>
+    <string name="category_4_name">Playa</string>
+    <string name="category_5_name">Entretenimiento</string>
+    <string name="category_6_name">Cultura</string>
+
+    <!-- ALMUERZO Y CENA -->
+    <string name="restaurant_1_name">La mi mama</string>
+    <string name="restaurant_2_name">Osteria io e Simone</string>
+    <string name="restaurant_3_name">Casina del bosco</string>
+    <string name="restaurant_4_name">Dalla Lella</string>
+    <string name="restaurant_5_name">Chi Burdlaz</string>
+    <string name="restaurant_6_name">Na pizz</string>
+    <string name="restaurant_7_name">La buca</string>
+    <string name="restaurant_8_name">Sbionta</string>
+
+    <string name="restaurant_1_rate">4.4</string>
+    <string name="restaurant_2_rate">4.6</string>
+    <string name="restaurant_3_rate">4.5</string>
+    <string name="restaurant_4_rate">4.6</string>
+    <string name="restaurant_5_rate">4.3</string>
+    <string name="restaurant_6_rate">4.1</string>
+    <string name="restaurant_7_rate">4.1</string>
+    <string name="restaurant_8_rate">4.4</string>
+
+    <string name="restaurant_1_address">Via Poletti 32, 47923</string>
+    <string name="restaurant_2_address">Piazza Teatini 3, 47921</string>
+    <string name="restaurant_3_address">Viale Beccadelli 15, 47921</string>
+    <string name="restaurant_4_address">Via Covignano 96, 47923</string>
+    <string name="restaurant_5_address">Viale Vespucci 63, 47921</string>
+    <string name="restaurant_6_address">Via Flaminia 175, 47923</string>
+    <string name="restaurant_7_address">Lungomare Tintori 5A, 47921</string>
+    <string name="restaurant_8_address">Viale Vespucci 85, 47921</string>
+
+    <string name="restaurant_1_description">La Mi Mama es el lugar ideal para vivir momentos de relajación, descubriendo los sabores y aromas de la antigua tradición de Romaña. El fascinante espacio luminoso, las luces suaves, los colores cálidos, las flores, el mobiliario, los sobrios accesorios y las vitrinas llenas de vinos finos se combinan para dar a los comensales un ambiente cálido y especial.</string>
+    <string name="restaurant_2_description">Un lugar muy acogedor con luces cálidas que te hacen sentir en casa. Excelente calidad de productos, servicio impecable, gran amabilidad y cordialidad, precios razonables.</string>
+    <string name="restaurant_3_description">La verdadera Piadina Romagnola nace en este fabuloso territorio. Preparamos las masas de piadina a mano, con amor, en nuestra cocina. Somos una gran familia que trabaja unida con el objetivo de dar siempre lo mejor a nuestros clientes y una gran cantidad de sonrisas.</string>
+    <string name="restaurant_4_description">Verdadera Piadina hecha con las manos y con el corazón. Excelente piada, ligera y bien rellena. Muchas delicias disponibles, y también segundos platos que puedes elegir por separado.</string>
+    <string name="restaurant_5_description">Excelente servicio, meseros que van de mesa en mesa sonriendo y siendo amables. ¿La comida? Cuando los ingredientes son excelentes, el resultado solo puede ser excelente. Cada plato transmite la pasión que hay detrás: trabajo, experiencia y amor.</string>
+    <string name="restaurant_6_description">Napizz es la marca de comida italiana más excéntrica, concebida y creada para sorprender a los clientes como si estuvieran en un museo de arte contemporáneo de la pizza. Napizz es simpatía napolitana, innovación y movimiento. Napizz son excelentes materias primas y métodos de elaboración artesanal.</string>
+    <string name="restaurant_7_description">Desde 1970, a pocos pasos del Puerto de Rímini, el elegante Restaurante La Buca ofrece la elección ideal para sentarse a la mesa y disfrutar de especialidades culinarias incomparables. Aquí no solo se come, sino que se vive una experiencia de sabores y aromas del mar combinados con las recetas eternas de la tradición de Romaña.</string>
+    <string name="restaurant_8_description">En Romaña lo sabemos: si algo está muy caliente, no está simplemente caliente, ¡está "sbionta"! La arena se derrite bajo el sol abrasador, la sartén que sale del horno o la Piadina que acabas de sacar de la sartén también. Por eso aquí, en Sbionta, encontrarás sabores que "sbiontano": Piadine, hamburguesas y pizzas preparadas al momento, con materias primas de calidad y cuidado artesanal.</string>
+
+    <!-- DESAYUNO -->
+    <string name="breakfast_1_name">Rinaldini</string>
+    <string name="breakfast_2_name">Pascucci</string>
+    <string name="breakfast_3_name">Caffè Ducale</string>
+    <string name="breakfast_4_name">Caffè Cavour</string>
+    <string name="breakfast_5_name">Embassy</string>
+
+    <string name="breakfast_1_rate">4.1</string>
+    <string name="breakfast_2_rate">4.0</string>
+    <string name="breakfast_3_rate">4.7</string>
+    <string name="breakfast_4_rate">4.3</string>
+    <string name="breakfast_5_rate">4.3</string>
+
+    <string name="breakfast_1_address">Viale Vespucci 8, 47921</string>
+    <string name="breakfast_2_address">Viale Vespucci 3/A, 47921</string>
+    <string name="breakfast_3_address">Corso D\'Augusto 222, 47921</string>
+    <string name="breakfast_4_address">Piazza Cavour 12, 47921</string>
+    <string name="breakfast_5_address">Viale Vespucci 33, 47921</string>
+
+    <string name="breakfast_1_description">En pocos años, Roberto Rinaldini ha creado un estilo absolutamente original, glamoroso y elegante, que se distingue por sus frecuentes incursiones en el fascinante mundo de la moda. Cada uno de sus postres está concebido como una obra en sí misma, una obra maestra de sastrería cuya base siempre es la búsqueda obstinada de la calidad en 360 grados: desde la selección de materias primas hasta las técnicas de elaboración.</string>
+    <string name="breakfast_2_description">Con presencia consolidada en varios países, Caffè Pascucci representa la excelencia italiana en el mundo del café. Por generaciones, Pascucci se ha dedicado a crear experiencias únicas a través del café. Nuestra pasión por el arte del café y el compromiso con la sostenibilidad nos convierten en una marca distintiva en la escena internacional.</string>
+    <string name="breakfast_3_description">Lo que tienes el placer de degustar en Ducale es la versión más elevada de la famosa bebida, cuidadosamente preparada por la habilidad del propietario, expresada también en el abastecimiento de materias primas y en la historia de los distintos blends, con granos recién molidos de la India, África y América Latina.</string>
+    <string name="breakfast_4_description">Caffè Cavour es uno de los bares históricos de Rímini con salones interiores donde puedes leer el periódico: es uno de los bares más elegantes de Rímini, con excelente café y un auténtico ambiente italiano.</string>
+    <string name="breakfast_5_description">Uno de los testimonios más hermosos de la arquitectura Liberty italiana ha sido devuelto a Rímini y a su gente. Con Embassy, un nuevo capítulo en una historia de 80 años. El icónico lugar digno de los años 50 y 60 que acogió a leyendas como Mina, Ornella Vanoni, Giorgio Gaber y Lucio Battista, se presenta con nueva imagen donde la comida, la cultura y la música se mezclan.</string>
+
+    <!-- ALOJAMIENTO -->
+    <string name="hotel_1_name">Grand Hotel</string>
+    <string name="hotel_2_name">Hotel Sporting</string>
+    <string name="hotel_3_name">Hotel Imperiale</string>
+    <string name="hotel_4_name">Hotel Ambasciatori</string>
+    <string name="hotel_5_name">Hotel Villa Adriatica</string>
+    <string name="hotel_6_name">i-SUITE</string>
+
+    <string name="hotel_1_rate">4.0</string>
+    <string name="hotel_2_rate">4.5</string>
+    <string name="hotel_3_rate">4.5</string>
+    <string name="hotel_4_rate">4.5</string>
+    <string name="hotel_5_rate">4.5</string>
+    <string name="hotel_6_rate">5.0</string>
+
+    <string name="hotel_1_address">Parco Federico Fellini, 47921</string>
+    <string name="hotel_2_address">Viale Vespucci 20, 47921</string>
+    <string name="hotel_3_address">Viale Vespucci 16, 47921</string>
+    <string name="hotel_4_address">Viale Vespucci 22, 47921</string>
+    <string name="hotel_5_address">Viale Vespucci 3, 47921</string>
+    <string name="hotel_6_address">Viale Regina Elena 28, 47921</string>
+
+    <string name="hotel_1_description">Símbolo de la dolce vita y, sobre todo, el lugar de la imaginación de Fellini: el Grand Hotel Rimini de 5 estrellas siempre ha sido un mito de los centros turísticos. Tú también puedes formar parte de la leyenda. El Grand Hotel Rimini es un viaje en el tiempo para descubrir una tierra con profundas tradiciones y fuertes sugerencias.</string>
+    <string name="hotel_2_description">¿Buscas un hotel en Rímini? Sea cual sea el motivo de tu estancia en la Riviera Romagnola, ya sea unas vacaciones en la playa o un viaje de negocios, con esta oferta de 4 estrellas al mejor precio podrás disfrutar de todas las comodidades del Hotel Sporting al precio más económico disponible.</string>
+    <string name="hotel_3_description">A tu alrededor elegancia, refinamiento y la singularidad de una experiencia de hotel de 4 estrellas. Enfrente, solo el mar. Rímini imagina un lugar para momentos de relajación en un descanso de bienestar con vista al mar, todo en un único entorno de 5 pisos. Cuando un hotel se convierte en una experiencia fascinante.</string>
+    <string name="hotel_4_description">En el Hotel Ambasciatori de 4 estrellas, la tradición siempre ha ido de la mano con la elegancia para una bienvenida de calidad caracterizada por el estilo y la clase. El Hotel Ambasciatori está entre los hoteles más populares de Rímini: ¡para viajes de negocios, reuniones corporativas, fines de semana de descanso o espléndidas vacaciones junto al mar!</string>
+    <string name="hotel_5_description">En el corazón de Marina Centro de Rímini hay una antigua joya, una residencia histórica de 4 estrellas que acoge a sus huéspedes desde 1880 en un ambiente de antigua elegancia. El Hotel Villa Adriatica en Rímini ha visto cambiar la ciudad y convertirse en uno de los destinos turísticos más conocidos y queridos.</string>
+    <string name="hotel_6_description">Un nuevo concepto de hotel boutique en Rímini, un objeto de diseño, una arquitectura maravillosa. Un lugar único, inusual y disruptivo, donde el tiempo se expande en preciosos momentos eternos para dedicar al autocuidado, a las pequeñas cosas, a los aromas y las sensaciones. El moderno hotel de 5 estrellas en Rímini.</string>
+
+    <!-- PLAYA -->
+    <string name="beach_1_name">Tiki Bagno 26</string>
+    <string name="beach_2_name">Libra Beach</string>
+    <string name="beach_3_name">Rimini Dog No Problem</string>
+    <string name="beach_4_name">Bagni Ricci</string>
+    <string name="beach_5_name">Adriatic Village</string>
+
+    <string name="beach_1_rate">4.4</string>
+    <string name="beach_2_rate">4.5</string>
+    <string name="beach_3_rate">4.4</string>
+    <string name="beach_4_rate">4.5</string>
+    <string name="beach_5_rate">4.6</string>
+
+    <string name="beach_1_address">Lungomare Tintori 30A, 47921</string>
+    <string name="beach_2_address">Lungomare Di Vittorio 8B, 47921</string>
+    <string name="beach_3_address">Lungomare Di Vittorio 28A, 47924</string>
+    <string name="beach_4_address">Lungomare Spadazzi 141–143, 47924</string>
+    <string name="beach_5_address">Lungomare Murri 8, 47921</string>
+
+    <string name="beach_1_description">En el corazón de la Riviera Romagnola encontrarás amabilidad, servicios de alta calidad y mucha comodidad. Como cada año, somos el destino favorito de quienes quieren pasar días enteros de sol y mar en nombre de la relajación.</string>
+    <string name="beach_2_description">Con aproximadamente 25 mil metros cuadrados de extensión, Libra Beach es una de las playas más grandes e innovadoras de toda la Riviera Romagnola. El personal de animación se encarga del entretenimiento de los niños en el Baby Park. La oferta de servicios de alta calidad se completa con dos chiringuitos junto al mar, el Gimnasio, el Centro Náutico y la Escuela de Natación.</string>
+    <string name="beach_3_description">Nuestra playa está formada por dos establecimientos de playa ubicados uno al lado del otro: Bagno 81 No Problem, una playa familiar con servicio para clientes sin perros, y la playa para perros Rimini Dog No Problem, ubicada en el Bagno 82, donde es posible llevar perros a la playa.</string>
+    <string name="beach_4_description">¿Sabes cuál es la única playa en Rímini que te ofrece unas vacaciones completas junto al mar? Es la playa Bagni Ricci. Desde 1946 la familia Ricci, histórica familia de pescadores de Rímini, ha vivido y trabajado junto al mar con un solo objetivo: hacerte sentir bien con los pies en la arena.</string>
+    <string name="beach_5_description">El establecimiento de baños Adriatic Village (playas 35, 36, 37) está ubicado en Marina Centro, en el paseo marítimo de Rímini. La playa, limpia, bien cuidada y muy amplia, ofrece la posibilidad de disfrutar de momentos de relajación. Adriatic Village es la elección correcta para todos: familias, parejas, amigos o para momentos en solitario.</string>
+
+    <!-- ENTRETENIMIENTO -->
+    <string name="entertainment_1_name">Coconuts</string>
+    <string name="entertainment_2_name">Carnaby</string>
+    <string name="entertainment_3_name">Turquoise Beach Club</string>
+    <string name="entertainment_4_name">Altromondo</string>
+    <string name="entertainment_5_name">Boabay</string>
+    <string name="entertainment_6_name">Fiabilandia</string>
+
+    <string name="entertainment_1_rate">3.7</string>
+    <string name="entertainment_2_rate">3.8</string>
+    <string name="entertainment_3_rate">3.8</string>
+    <string name="entertainment_4_rate">4.2</string>
+    <string name="entertainment_5_rate">4.0</string>
+    <string name="entertainment_6_rate">4.1</string>
+
+    <string name="entertainment_1_address">Lungomare Tintori 5, 47921</string>
+    <string name="entertainment_2_address">Via Brindisi 20, 47924</string>
+    <string name="entertainment_3_address">Lungomare Tintori 6, 47921</string>
+    <string name="entertainment_4_address">Via Flaminia 358, 47924</string>
+    <string name="entertainment_5_address">Via Delle Officine 24, 47923</string>
+    <string name="entertainment_6_address">Via Cardano 15, 47924</string>
+
+    <string name="entertainment_1_description">Coconuts es el lugar ideal para pasar una velada especial con amigos. La discoteca está abierta todo el año; en invierno se baila en las salas interiores, mientras que en verano los eventos se trasladan al paseo marítimo de Rímini, a pocos pasos de la playa.</string>
+    <string name="entertainment_2_description">El Carnaby Club es una histórica discoteca de 3 pisos en Rímini que inauguró sus pistas en 1968. A lo largo de su historia ha atravesado todas las modas, siguiendo la evolución musical y confirmándose siempre como protagonista de las noches costeras. A pesar de su longevidad, nunca ha perdido su frescura ni ha cambiado los valores en los que cree: siempre ha permanecido fiel a su identidad de lugar amigable, fuertemente internacional, dedicado a la diversión sana.</string>
+    <string name="entertainment_3_description">¿Nuestro objetivo? Hacerte vivir cada día como si estuvieras de vacaciones. 350 sombrillas, suites, canchas deportivas, bar, restaurante, chiringuito, áreas de descanso y mucho más. Entretenimiento cada noche con eventos, espectáculos y DJ sets.</string>
+    <string name="entertainment_4_description">Altromondo Studios representa el progenitor de la historia de las discotecas en Riccione y Rímini. Con su primera apertura en 1967, introdujo un gran cambio en el mundo de la vida nocturna, convirtiéndose en el punto de referencia para los habitantes locales y turistas. Ha atraído a los mayores nombres de la escena dance mundial como Hardwell, Steve Aoki, Afrojack y Nicky Romero.</string>
+    <string name="entertainment_5_description">Toboganes, túneles, rampas inclinadas, trampolines, plataformas, un gigantesco iceberg para escalar y muchos otros inflables divertidos y llenos de adrenalina. Y además, un espacio dedicado a los niños al que pueden acceder acompañados de un adulto.</string>
+    <string name="entertainment_6_description">Un hermoso parque formado por atracciones sencillas y mágicas adecuadas para toda la familia, especialmente si tienes niños pequeños, ideal para pasar un día despreocupado en familia.</string>
+
+    <!-- CULTURA -->
+    <string name="culture_1_name">Arco de Augusto</string>
+    <string name="culture_2_name">Puente de Tiberio</string>
+    <string name="culture_3_name">Templo Malatestiano</string>
+    <string name="culture_4_name">Castillo Sismondo</string>
+    <string name="culture_5_name">Vecchia Pescheria</string>
+    <string name="culture_6_name">Domus del Cirujano</string>
+    <string name="culture_7_name">Museo Fellini</string>
+
+    <string name="culture_1_rate">4.6</string>
+    <string name="culture_2_rate">4.9</string>
+    <string name="culture_3_rate">4.6</string>
+    <string name="culture_4_rate">4.6</string>
+    <string name="culture_5_rate">4.6</string>
+    <string name="culture_6_rate">4.5</string>
+    <string name="culture_7_rate">4.6</string>
+
+    <string name="culture_1_address">Corso D\'Augusto, 47921</string>
+    <string name="culture_2_address">Corso D\'Augusto, 47921</string>
+    <string name="culture_3_address">Via IV Novembre 35, 47921</string>
+    <string name="culture_4_address">Piazza Malatesta, 47923</string>
+    <string name="culture_5_address">Piazza Cavour, 47921</string>
+    <string name="culture_6_address">Piazza Ferrari, 47921</string>
+    <string name="culture_7_address">Piazza Malatesta, 47923</string>
+
+    <string name="culture_1_description">Construido en el año 27 a.C. con piedra istriana, en honor del César Octaviano Augusto, es el más antiguo de los arcos romanos supervivientes y se encuentra en el punto de llegada de la Vía Flaminia (que unía Roma con Rímini). La apertura del fornix, tan ancha que no podía cerrarse con puertas, recordaba la paz alcanzada tras un largo período de guerras civiles.</string>
+    <string name="culture_2_description">Imponente obra arquitectónica de la época romana, el puente fue construido sobre el río Marecchia por decreto del Emperador Augusto y su terminación se debe a su sucesor Tiberio (14–21 d.C.). Hecho de piedra istriana, con cinco arcos, en estilo dórico, representa uno de los puentes romanos supervivientes más notables. El puente marca el inicio de las calles consulares Emilia y Popilia hacia el Norte.</string>
+    <string name="culture_3_description">Testimonio de la magnificencia de los Malatesta, fue Segismundo Pandolfo Malatesta quien ordenó la transformación de la antigua iglesia románico-gótica de San Francesco en un espléndido monumento en armonía con la nueva cultura renacentista. Las obras del templo comenzaron en 1450. El exterior es obra del gran genio Leon Battista Alberti y presenta una majestuosa fachada inspirada en las formas del arco triunfal romano.</string>
+    <string name="culture_4_description">Segismundo comenzó su construcción el 20 de marzo de 1437. El castillo fue concebido como palacio y fortaleza al mismo tiempo, como sede digna de la corte y la guarnición, y como signo de poder y supremacía sobre la ciudad. La construcción conserva un notable encanto, con sus grandes torres cuadradas y sus poderosas murallas.</string>
+    <string name="culture_5_description">Construida por Giovan Francesco Buonamici en 1747, refleja la importancia económica de la pesca en Rímini. Aparece como una logia de dos órdenes abierta por tres arcos de medio punto; en las esquinas cuatro estatuillas de delfines con un chorro de agua (fuentes para limpiar el pescado). En el interior había largos bancos de piedra istriana donde las mujeres vendían almejas.</string>
+    <string name="culture_6_description">A finales de 1980, durante obras de mobiliario urbano en la Piazza Ferrari, se descubrió un yacimiento arqueológico de extraordinaria importancia, con evidencias desde la época romana hasta la Edad Media. En el área se encontraba la "Domus del Cirujano", llamada así por la profesión del último propietario, un médico de cultura griega. Desde 2007, la Domus del Cirujano está abierta al público, una pequeña Pompeya resurgida de las sombras de los siglos en el corazón histórico de Rímini.</string>
+    <string name="culture_7_description">El Museo Fellini es un museo itinerante de nuevo concepto y el mayor proyecto museístico dedicado a Federico Fellini. Tres espacios están involucrados: el Castillo Sismondo, el Palazzo del Fulgor y la Piazza Malatesta. Un espacio de creatividad — incluido por el Ministerio de Cultura entre los principales proyectos del patrimonio cultural nacional — en nombre de la naturaleza visionaria de Fellini, del cine y de la relación con las artes.</string>
+</resources>

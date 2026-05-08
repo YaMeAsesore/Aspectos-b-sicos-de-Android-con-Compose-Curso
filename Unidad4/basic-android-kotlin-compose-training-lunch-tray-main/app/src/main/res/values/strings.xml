@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bandeja del Almuerzo</string>
+    <string name="back_button">Atrás</string>
+    <string name="cancel">Cancelar</string>
+    <string name="choose_accompaniment">Elige un Acompañamiento</string>
+    <string name="choose_entree">Elige un Plato Principal</string>
+    <string name="choose_side_dish">Elige un Plato Secundario</string>
+    <string name="next">Siguiente</string>
+    <string name="order_checkout">Finalizar Pedido</string>
+    <string name="start_order">Iniciar Pedido</string>
+    <string name="order_summary">Resumen del Pedido</string>
+    <string name="subtotal">Subtotal: %s</string>
+    <string name="tax">Impuesto: %s</string>
+    <string name="total">Total: %s</string>
+    <string name="submit">Confirmar</string>
+</resources>
